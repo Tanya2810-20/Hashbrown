@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="43" viewBox="0 0 43 43">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6832" data-name="Rectangle 6832" width="43" height="43" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="OOH_Monitoring" data-name="OOH Monitoring" transform="translate(0.412)">
+    <rect id="Rectangle_6831" data-name="Rectangle 6831" width="43" height="43" transform="translate(-0.412 0)" fill="#bd0019"/>
+    <g id="Group_1589" data-name="Group 1589" transform="translate(-0.412 0)">
+      <g id="Group_1588" data-name="Group 1588" transform="translate(0)" clip-path="url(#clip-path)">
+        <text id="OOH" transform="translate(0.188 18.638)" fill="#fff" font-size="17" font-family="MotorOil1937M54, 'Motor Oil \31 937 M54'"><tspan x="0" y="0">OOH</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
