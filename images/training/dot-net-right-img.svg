@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="582" height="874" viewBox="0 0 582 874">
+  <g id="Group_42601" data-name="Group 42601" transform="translate(-1971 -3164.5)">
+    <text id="AWS" transform="translate(2114.216 3311.5)" stroke="rgba(49,48,48,0.99)" stroke-width="1" font-size="103" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">AWS</tspan></text>
+    <line id="Line_596" data-name="Line 596" y2="701" transform="translate(2012.81 3337.5)" fill="none" stroke="#313030" stroke-width="1" stroke-dasharray="2"/>
+    <line id="Line_596-2" data-name="Line 596" y2="295.5" transform="translate(2229.254 3347.5)" fill="none" stroke="#313030" stroke-width="1" stroke-dasharray="2"/>
+    <line id="Line_596-3" data-name="Line 596" y2="465" transform="translate(2444.81 3164.5)" fill="none" stroke="#313030" stroke-width="1" stroke-dasharray="2"/>
+    <line id="Line_599" data-name="Line 599" x1="329" transform="translate(2158 3381)" fill="none" stroke="#313030" stroke-width="1" stroke-dasharray="2"/>
+    <line id="Line_597" data-name="Line 597" x1="509" transform="translate(2013 3596)" fill="none" stroke="#313030" stroke-width="1" stroke-dasharray="2"/>
+    <line id="Line_600" data-name="Line 600" x1="551" transform="translate(1971 3811)" fill="none" stroke="#313030" stroke-width="1" stroke-dasharray="2"/>
+    <text id="ASP.NET_Core" data-name="ASP.NET Core" transform="translate(2023 3742)" stroke="rgba(49,48,48,0.99)" stroke-width="1" font-size="83" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">ASP.NET Core</tspan></text>
+  </g>
+</svg>

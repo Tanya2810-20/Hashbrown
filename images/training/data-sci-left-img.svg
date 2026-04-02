@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="632" height="948" viewBox="0 0 632 948">
+  <g id="Group_42602" data-name="Group 42602" transform="translate(0 -4451.5)">
+    <line id="Line_606" data-name="Line 606" y2="685" transform="translate(78.81 4468.5)" fill="none" stroke="#dedede" stroke-width="1"/>
+    <line id="Line_607" data-name="Line 607" y2="451" transform="translate(293.81 4677.5)" fill="none" stroke="#dedede" stroke-width="1"/>
+    <line id="Line_608" data-name="Line 608" y2="948" transform="translate(508.81 4451.5)" fill="none" stroke="#dedede" stroke-width="1"/>
+    <line id="Line_609" data-name="Line 609" x1="590" transform="translate(42 4698)" fill="none" stroke="#dedede" stroke-width="1"/>
+    <line id="Line_610" data-name="Line 610" x1="567" transform="translate(0 5128)" fill="none" stroke="#dedede" stroke-width="1"/>
+    <line id="Line_616" data-name="Line 616" x1="567" transform="translate(10 5342)" fill="none" stroke="#dedede" stroke-width="1"/>
+    <text id="Python" transform="translate(127 4603.5)" fill="none" stroke="rgba(209,209,209,0.99)" stroke-width="1" font-size="103" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Python</tspan></text>
+    <text id="R" transform="translate(360.118 5046.42) rotate(8)" fill="none" stroke="rgba(209,209,209,0.99)" stroke-width="1" font-size="103" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">R</tspan></text>
+    <line id="Line_611" data-name="Line 611" x1="271" transform="translate(221 4912)" fill="none" stroke="#dedede" stroke-width="1"/>
+    <text id="VLookup" transform="translate(42 5280)" fill="none" stroke="rgba(209,209,209,0.99)" stroke-width="1" font-size="103" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">VLookup</tspan></text>
+  </g>
+</svg>

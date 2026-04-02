@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29.609" height="30.508" viewBox="0 0 29.609 30.508">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a70000"/>
+      <stop offset="1" stop-color="#01235a"/>
+    </linearGradient>
+  </defs>
+  <g id="Model_Deployment_Monitoring_" data-name="Model_Deployment_Monitoring " transform="translate(-18 -17)">
+    <path id="Path_233129" data-name="Path 233129" d="M19,34.031a4.453,4.453,0,0,0,4.453,4.453h18.7a4.453,4.453,0,0,0,4.453-4.453V22.453A4.453,4.453,0,0,0,42.156,18h-18.7A4.453,4.453,0,0,0,19,22.453Zm3.562-11.578a.891.891,0,0,1,.891-.891h18.7a.891.891,0,0,1,.891.891V34.031a.891.891,0,0,1-.891.891h-18.7a.891.891,0,0,1-.891-.891Z" stroke="#fff" stroke-width="2" fill="url(#linear-gradient)"/>
+    <path id="Path_233130" data-name="Path 233130" d="M46.446,71.78a16.868,16.868,0,0,0-15.091,0l-.374.187a1.781,1.781,0,1,0,1.59,3.188l.379-.187a13.31,13.31,0,0,1,11.9,0l.374.187a1.781,1.781,0,0,0,1.59-3.188Z" transform="translate(-6.098 -28.843)" stroke="#fff" stroke-width="2" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
