@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="648" height="421" viewBox="0 0 648 421">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7561" data-name="Rectangle 7561" width="648" height="421" transform="translate(632 3647)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_10195" data-name="Rectangle 10195" width="92.571" height="100.987" fill="#c4c4c4"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_125" data-name="Mask Group 125" transform="translate(-632 -3647)" clip-path="url(#clip-path)">
+    <g id="Monte_Carlo_Simulations:" data-name="Monte Carlo Simulations:" transform="translate(13160.98 -13034.706)" opacity="0.537">
+      <g id="Group_41489" data-name="Group 41489" transform="translate(-12528.98 16824.787)">
+        <line id="Line_467" data-name="Line 467" x2="647.998" transform="translate(0 272.092)" fill="none" stroke="#707070" stroke-width="0.6"/>
+        <line id="Line_468" data-name="Line 468" y2="272.092" transform="translate(16.831)" fill="none" stroke="#707070" stroke-width="0.6" stroke-dasharray="2"/>
+        <line id="Line_469" data-name="Line 469" y2="272.092" transform="translate(172.519)" fill="none" stroke="#707070" stroke-width="0.6" stroke-dasharray="2"/>
+        <line id="Line_470" data-name="Line 470" y2="272.092" transform="translate(323.999)" fill="none" stroke="#707070" stroke-width="0.6" stroke-dasharray="2"/>
+        <line id="Line_471" data-name="Line 471" y2="272.092" transform="translate(479.687)" fill="none" stroke="#707070" stroke-width="0.6" stroke-dasharray="2"/>
+        <line id="Line_472" data-name="Line 472" y2="272.092" transform="translate(631.167)" fill="none" stroke="#707070" stroke-width="0.6" stroke-dasharray="2"/>
+      </g>
+      <g id="Mask_Group_35710" data-name="Mask Group 35710" transform="translate(-12179.823 16998.201)" opacity="0.998" clip-path="url(#clip-path-2)">
+        <path id="Path_100710" data-name="Path 100710" d="M-12649.077,17035.006s171.579-150.908,207.738-225.111,70.957,0,70.957,0,113.251,222.836,395.659,225.111" transform="translate(12260.093 -16936.59)" fill="#c4c4c4"/>
+      </g>
+      <path id="Path_100711" data-name="Path 100711" d="M-12524.253,17062.516c84.222.785,110.244-249.945,171.865-256.6s84.5,225.512,425.527,256.6" transform="translate(15.138 34.844)" fill="none" stroke="#707070" stroke-width="1" opacity="0.998"/>
+    </g>
+  </g>
+</svg>

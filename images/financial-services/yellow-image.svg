@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="417" height="443" viewBox="0 0 417 443">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="365" height="397" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_11829" data-name="Group 11829" transform="translate(-632 -5712)">
+    <rect id="Rectangle_7486" data-name="Rectangle 7486" width="417" height="443" transform="translate(632 5712)" fill="#eae39f"/>
+    <g id="AI-2" transform="translate(33 -40.108)" opacity="0.474">
+      <g id="Repeat_Grid_9" data-name="Repeat Grid 9" transform="translate(641 5795.108)" clip-path="url(#clip-path)">
+        <g transform="translate(-2106 -5500)">
+          <line id="Line_516" data-name="Line 516" y2="360" transform="translate(2106.5 5500)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-2025 -5500)">
+          <line id="Line_516-2" data-name="Line 516" y2="360" transform="translate(2106.5 5500)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-1944 -5500)">
+          <line id="Line_516-3" data-name="Line 516" y2="360" transform="translate(2106.5 5500)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-1863 -5500)">
+          <line id="Line_516-4" data-name="Line 516" y2="360" transform="translate(2106.5 5500)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-1782 -5500)">
+          <line id="Line_516-5" data-name="Line 516" y2="360" transform="translate(2106.5 5500)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-2106 -5120)">
+          <line id="Line_516-6" data-name="Line 516" y2="360" transform="translate(2106.5 5500)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-2025 -5120)">
+          <line id="Line_516-7" data-name="Line 516" y2="360" transform="translate(2106.5 5500)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-1944 -5120)">
+          <line id="Line_516-8" data-name="Line 516" y2="360" transform="translate(2106.5 5500)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-1863 -5120)">
+          <line id="Line_516-9" data-name="Line 516" y2="360" transform="translate(2106.5 5500)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-1782 -5120)">
+          <line id="Line_516-10" data-name="Line 516" y2="360" transform="translate(2106.5 5500)" fill="none" stroke="#707070" stroke-width="1" stroke-dasharray="3"/>
+        </g>
+      </g>
+      <g id="Polygon_1" data-name="Polygon 1" transform="translate(770 5755.108)" fill="none">
+        <path d="M32.5,0,65,59H0Z" stroke="none"/>
+        <path d="M 32.5 2.072586059570312 L 1.692523956298828 58 L 63.30747222900391 58 L 32.5 2.072586059570312 M 32.5 0 L 65 59 L 0 59 L 32.5 0 Z" stroke="none" fill="#707070"/>
+      </g>
+      <g id="Polygon_2" data-name="Polygon 2" transform="translate(852 5804.108)" fill="none">
+        <path d="M32.5,0,65,59H0Z" stroke="none"/>
+        <path d="M 32.5 2.072586059570312 L 1.692523956298828 58 L 63.30747222900391 58 L 32.5 2.072586059570312 M 32.5 0 L 65 59 L 0 59 L 32.5 0 Z" stroke="none" fill="#707070"/>
+      </g>
+      <g id="Polygon_3" data-name="Polygon 3" transform="translate(690 5804.108)" fill="none">
+        <path d="M32.5,0,65,59H0Z" stroke="none"/>
+        <path d="M 32.5 2.072586059570312 L 1.692523956298828 58 L 63.30747222900391 58 L 32.5 2.072586059570312 M 32.5 0 L 65 59 L 0 59 L 32.5 0 Z" stroke="none" fill="#707070"/>
+      </g>
+      <g id="Polygon_4" data-name="Polygon 4" transform="translate(933 5888.108)" fill="none">
+        <path d="M32.5,0,65,59H0Z" stroke="none"/>
+        <path d="M 32.5 2.072586059570312 L 1.692523956298828 58 L 63.30747222900391 58 L 32.5 2.072586059570312 M 32.5 0 L 65 59 L 0 59 L 32.5 0 Z" stroke="none" fill="#707070"/>
+      </g>
+      <g id="Polygon_5" data-name="Polygon 5" transform="translate(609 5888.108)" fill="none">
+        <path d="M32.5,0,65,59H0Z" stroke="none"/>
+        <path d="M 32.5 2.072586059570312 L 1.692523956298828 58 L 63.30747222900391 58 L 32.5 2.072586059570312 M 32.5 0 L 65 59 L 0 59 L 32.5 0 Z" stroke="none" fill="#707070"/>
+      </g>
+    </g>
+  </g>
+</svg>

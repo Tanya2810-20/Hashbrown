@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="60" viewBox="0 0 100 60">
+  <defs>
+    <linearGradient id="linear-gradient" x1="136.059" y1="0.5" x2="137.059" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d81222"/>
+      <stop offset="1" stop-color="#960b1a"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_11838" data-name="Group 11838" transform="translate(-656 -8385)">
+    <g id="Rectangle_7548" data-name="Rectangle 7548" transform="translate(656 8385)" fill="#fff" stroke="#ddd" stroke-width="1">
+      <rect width="100" height="60" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="99" height="59" rx="1.5" fill="none"/>
+    </g>
+    <g id="Group_11818" data-name="Group 11818" transform="translate(2379.904 -5409.187)">
+      <path id="polygon9702" d="M.238,31.019V8.837L20.43,31.019Z" transform="translate(-1686.142 13815.74)" fill="url(#linear-gradient)"/>
+      <circle id="circle9704" cx="6.043" cy="6.043" r="6.043" transform="translate(-1674.599 13823.937)" fill="#d81222"/>
+      <path id="polygon9706" d="M.238,23.523V45.705L20.43.132Z" transform="translate(-1686.142 13801.055)" fill="#d81222"/>
+    </g>
+  </g>
+</svg>
